@@ -2,8 +2,8 @@ import React from 'react';
 
 // Import all images
 import work1 from '../images/work1.jpg';
-import work2 from '../images/work2.jpg';
-import work3 from '../images/work3.jpg';
+import work2 from '../images/Work2.jpg';
+import work3 from '../images/Work3.jpg';
 import work4 from '../images/work4.jpg';
 import work5 from '../images/work5.jpg';
 import work6 from '../images/work6.jpg';
